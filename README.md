@@ -8,7 +8,7 @@ After asking myself that question i started to dive into movies dataset and do E
 First of all i scrapped the dataset using instant data scrapper and imported as csv file.
 After which the main part was cleaning especially the null and blank values.
 
-After all the cleaning done wiht help of AI, generated problems left to be answered and solved.
+After all the cleaning done, with help of AI, generated problems were left to be answered and solved.
 
 
 I have explored several important features from sql like:
